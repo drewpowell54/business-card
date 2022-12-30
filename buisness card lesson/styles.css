@@ -1,0 +1,29 @@
+body{
+    margin: 100px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.card{
+    width: 400px;
+    margin: auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    border-radius: 10%;
+    color: #121420;
+    background: #c89666;
+    border-top: 20px solid #12343b;
+    border-bottom: 20px solid #12343b;
+    
+
+}
+
+.img-drew{
+    width: 150px;
+    border-top: 5px solid #12343b;
+    border-bottom: 5px solid #12343b;
+    border-radius: 10%;
+    transform: rotate(15deg);
+}
